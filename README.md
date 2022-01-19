@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="Man cinfront of a computer"![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif) />
+![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
 
 
 <!--
