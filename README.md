@@ -1,6 +1,5 @@
 ### Hi there, my name is.. 
-
-![1785459272231422190122](https://user-images.githubusercontent.com/88099719/150222790-76f2c165-1187-4a48-a2bf-0b1af57024f4.gif)
+![996682800431822190122](https://user-images.githubusercontent.com/88099719/150223310-b3517d5e-ea40-4834-97f8-85598fecfc10.gif)
 
 
 
