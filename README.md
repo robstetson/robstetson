@@ -1,9 +1,8 @@
-### Hi there, my name is Robert Stetson 👋
-![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
-
+### Hi there, my name is.. 
 
 ![1785459272231422190122](https://user-images.githubusercontent.com/88099719/150222790-76f2c165-1187-4a48-a2bf-0b1af57024f4.gif)
 
+![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
 
 # About Me
 - 🔭 I’m currently working on a portfolio as well as a passion project of mine. Ask me about it!
