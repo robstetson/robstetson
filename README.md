@@ -2,10 +2,10 @@
 ![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
 
 # About Me
-- 🔭 I’m currently working on a portfolio website to create a further understanding of my FullStack Web Development course in BloomTech
+- 🔭 I’m currently working on a portfolio as well as a passion prject of mine. Ask me about it!
 - 🌱 I’m currently learning Applied Computer Science
-- 📫 How to reach me: mangelique9800@gmail.com
-- ⚡ Fun fact: I was born and raised in the Philippines. I moved in the United States back in 2014 to get a heart surgery!
+- 📫 How to reach me: rstetsonx@gmail.com
+- ⚡ Fun fact: I was the 27th in sales, for the country, for a Car company back in 2016!
 
 # How to reach me
 - [LinkedIn](https://www.linkedin.com/in/robstetson/)
