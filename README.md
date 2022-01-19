@@ -1,21 +1,15 @@
-### Hi there 👋
+### Hi there, my name is Robert Stetson 👋
 ![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
 
+# About Me
+- 🔭 I’m currently working on a portfolio website to create a further understanding of my FullStack Web Development course in BloomTech
+- 🌱 I’m currently learning Applied Computer Science
+- 📫 How to reach me: mangelique9800@gmail.com
+- ⚡ Fun fact: I was born and raised in the Philippines. I moved in the United States back in 2014 to get a heart surgery!
 
-<!--
-**robstetson/robstetson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# How to reach me
+- [LinkedIn](https://www.linkedin.com/in/mary-angelique-abacajan/)
+- [Gmail](mangelique9800@gmail.com)
 
 
 ### Languages and Tools:
