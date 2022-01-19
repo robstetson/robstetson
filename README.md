@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I was born and raised in the Philippines. I moved in the United States back in 2014 to get a heart surgery!
 
 # How to reach me
-- [LinkedIn](https://www.linkedin.com/in/mary-angelique-abacajan/)
-- [Gmail](mangelique9800@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/robstetson/)
+- [Gmail](rstetsonx@gmail.com)
 
 
 ### Languages and Tools:
