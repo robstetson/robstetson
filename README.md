@@ -1,8 +1,6 @@
 ### Hi there, my name is.. 
 ![996682800431822190122](https://user-images.githubusercontent.com/88099719/150223310-b3517d5e-ea40-4834-97f8-85598fecfc10.gif)
 
-![Uploading giphy.gif…]()
-
 ![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
 # About Me 
 - 🔭 I’m currently working on a portfolio as well as a passion project of mine. Ask me about it!
