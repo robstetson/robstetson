@@ -3,7 +3,7 @@
 
 
 ![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
-# About Me
+# About Me 
 - 🔭 I’m currently working on a portfolio as well as a passion project of mine. Ask me about it!
 - 🌱 I’m currently learning Applied Computer Science
 - ⚡ Fun fact: I was the 27th in sales, for the country, for a Car company back in 2016!
