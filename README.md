@@ -2,7 +2,7 @@
 ![996682800431822190122](https://user-images.githubusercontent.com/88099719/150223310-b3517d5e-ea40-4834-97f8-85598fecfc10.gif)
 
 
-
+<align="right![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
 # About Me
 - 🔭 I’m currently working on a portfolio as well as a passion project of mine. Ask me about it!
 - 🌱 I’m currently learning Applied Computer Science
@@ -26,5 +26,5 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<!-- <align="right![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)/> -->
+<!-- /> -->
 
