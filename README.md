@@ -6,12 +6,11 @@
 # About Me
 - 🔭 I’m currently working on a portfolio as well as a passion project of mine. Ask me about it!
 - 🌱 I’m currently learning Applied Computer Science
-- 📫 How to reach me: rstetsonx@gmail.com
 - ⚡ Fun fact: I was the 27th in sales, for the country, for a Car company back in 2016!
 
 # How to reach me
+- 📫 How to reach me: rstetsonx@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/robert-stetson/)
-- [Gmail](rstetsonx@gmail.com)
 
 
 # Languages and Tools:
