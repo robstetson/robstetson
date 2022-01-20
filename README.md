@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I was the 27th in sales, for the country, for a Car company back in 2016!
 
 # How to reach me
-- [LinkedIn](https://www.linkedin.com/in/robstetson/)
+- [LinkedIn](https://www.linkedin.com/in/robert-stetson/)
 - [Gmail](rstetsonx@gmail.com)
 
 
