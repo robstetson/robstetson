@@ -10,7 +10,7 @@
 
 # How to reach me
 - 📫 How to reach me: 
-- Email rstetsonx@gmail.com
+- rstetsonx@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/robert-stetson/)
 
 
