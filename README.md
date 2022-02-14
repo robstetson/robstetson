@@ -1,6 +1,6 @@
 ### Hi there, my name is...
 ![996682800431822190122](https://user-images.githubusercontent.com/88099719/150223310-b3517d5e-ea40-4834-97f8-85598fecfc10.gif)
-![giphy](https://user-images.githubusercontent.com/88099719/153950231-8347f6ac-da52-4898-896d-612336c88921.gif)
+![giphy](https://user-images.githubusercontent.com/88099719/150218414-8b1971c5-0636-4ff9-825f-b556ef18678a.gif)
 
 
 # About Me 
