@@ -8,9 +8,8 @@
 - 🌱 I’m currently learning Applied Computer Science
 - ⚡ Fun fact: I was the 27th in sales, for the country, for a Car company back in 2016!
 
-# How to reach me
+# How to reach me 📫 
 
-- 📫 How to reach me: 
 - rstetsonx@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/robert-stetson/)
 
